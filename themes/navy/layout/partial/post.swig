@@ -1,5 +1,6 @@
 <article class="article post" itemscope itemtype="http://schema.org/Article">
   <header class="article-header">
+    -----partical post
     {% if is_post() %}
       <h1 class="article-title" itemprop="name">{{ post.title }}</h1>
     {% else %}

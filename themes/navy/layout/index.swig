@@ -9,6 +9,7 @@
 </header>
 <div id="content-wrap">
   <div class="wrapper">
+    ----- layout index
     <div class="inner">
       {{ page.content }}
       <ul id="intro-cmd-wrap">

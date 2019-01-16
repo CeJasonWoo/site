@@ -1,4 +1,5 @@
 <li class="plugin on">
+----- theme
   <div class="plugin-screenshot">
     <noscript>
       <img src="{{ url_for('themes/screenshots/' + plugin.name + '.png') }}" class="plugin-screenshot-img" alt="{{ plugin.name }}">
