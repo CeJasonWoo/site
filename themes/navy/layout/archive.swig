@@ -2,7 +2,7 @@
 <div id="content-wrap">
   <div class="wrapper">
     <div class="inner">
-      ----- News
+      ----- News layout archive
       {% for post in page.posts %}
         {% if loop.index == 1 %}
           {{ partial('partial/post', {post: post}) }}

@@ -1,7 +1,7 @@
 <div id="content-wrap">
   <div class="wrapper">
     <div class="inner">
-      -----post
+      -----layout post
       {{ partial('partial/post', {post: page}) }}
     </div>
   </div>

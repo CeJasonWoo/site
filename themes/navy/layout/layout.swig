@@ -3,7 +3,7 @@
 {{ partial('partial/head') }}
 <body>
   <div id="container">
-    ----- layout
+    ----- common layout
     {{ partial('partial/header') }}
     {{ body }}
     {{ partial('partial/footer') }}
